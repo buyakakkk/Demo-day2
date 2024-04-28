@@ -20,6 +20,33 @@ section{
     width: 100%;
     height: 7%;
     background-color: beige;
+    display: flex;
+}
+.tl{
+    width: 12%;
+    height: 100%;
+    background-color: var(--bg-color);
+}
+.tm{
+    width: 76%;
+    height: 100%;
+    background-color: var(--side-color);
+    display: flex;
+}
+.ml{
+    width: 50%;
+    height: 100%;
+    background-color: #222831;
+}
+.mr{
+    width: 50%;
+    height: 100%;
+    background-color: #222831;
+}
+.tr{
+    width: 12%;
+    height: 100%;
+    background-color: var(--bg-color);
 }
 .bottom{
     width: 100%;
