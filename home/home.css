@@ -151,7 +151,7 @@ a{
 .bm{
     width: 76%;
     height: 220%;
-    background-color: #3964b4;
+    background-color: var(--bg-color);
 }
 
 
